@@ -1,8 +1,9 @@
-Simple Message Contract
-Overview
+## Simple Message Contract
+
+## Overview
 This Solidity contract serves as an illustration of global functions in the message context. It includes a deposit function that allows users to deposit funds and updates the balance accordingly.
 
-Contract Details
+## Contract Details
 Functionality:
 
 deposit(uint value) public payable: Allows users to deposit funds and update the balance. Returns sender's address, the value sent, and remaining gas.
@@ -17,11 +18,11 @@ Fork the repository.
 Create a new branch for your feature or bug fix.
 Make your changes and submit a pull request.
 
-Issues
+## Issues
 If you encounter any issues or have suggestions for improvement, please create an issue.
 
-Author
+## Author
 Jeremiah Samuel
 
-License
+## License
 This contract is licensed under the MIT License.
